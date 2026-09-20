@@ -74,16 +74,16 @@ Development of Linux Embedded Automotive Platform (LEAP) and High Performance Co
 
 ## 🚀 Personal and Research Projects
 
-- **VertexVoyage** — distributed system for node embedding in real networks. Implements graph embedding algorithms such as DeepWalk, Node2Vec and DistGER and enables fast and scalable graph database operations. *Python, Rust*
-- **PageProc** — document layout analysis using the xy-cuts algorithm, rule-based heuristics and RDF to classify elements on a page. *Python, C++, OpenCV*
+- **[VertexVoyage](https://github.com/fantastic001/vertexvoyage)** — distributed system for node embedding in real networks. Implements graph embedding algorithms such as DeepWalk, Node2Vec and DistGER and enables fast and scalable graph database operations. *Python, Rust*
+- **[PageProc](https://github.com/fantastic001/pageproc)** — document layout analysis using the xy-cuts algorithm, rule-based heuristics and RDF to classify elements on a page. *Python, C++, OpenCV*
 - **Osmium** — an attempt to make an open source version of the Wolfram language with a compatible API
-- **DistTranscode** — distributed FFmpeg: video decoding, encoding and filtering
-- **CoNAL** — Computing Node Abstraction Layer: framework for building distributed applications. *C++, Bash*
+- **[DistTranscode](https://github.com/fantastic001/disttranscode)** — distributed FFmpeg: video decoding, encoding and filtering
+- **[CoNAL](https://github.com/fantastic001/conal)** — Computing Node Abstraction Layer: framework for building distributed applications. *C++, Bash*
 - **FinPredict** — financial asset trading bot based on a machine learned model from news and other text sources
 - **CloudPost** — vendor-agnostic platform for making and deploying cloud-based applications. *Python*
 - **InstantAPI** — framework for easy creation of REST APIs using declarative syntax. *Python*
-- **Neptune** — interpreted language which supports operator overloading and custom scope rules
-- **STELLAR** — a simple language for manipulating tabular data
+- **[Neptune](https://github.com/fantastic001/neptune)** — interpreted language which supports operator overloading and custom scope rules
+- **[STELLAR](https://github.com/fantastic001/stellar)** — a simple language for manipulating tabular data
 - **FluidSim** — fluid simulation based on solving Navier-Stokes equations. *Python, NumPy*
 - **Height3D** — OOP framework for making 3D apps: drawing of 3D objects, textures, events and animations. *C++, OpenGL*
 - **ACASP** — ad collection and search platform which crawls web pages to find ad postings. *Java, Enterprise Java Beans*
